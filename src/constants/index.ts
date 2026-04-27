@@ -34,7 +34,7 @@ export const FILMS = [
     year: "2007",
     type: "Documentary Short",
     desc: "Kisah perjuangan Renita dalam mencari pengakuan dan martabat. Menang di berbagai festival film internasional.",
-    image: "/asset/images/Renita1.jpg",
+    image: "/asset/images/renita1.jpg",
     featured: false
   },
   {
