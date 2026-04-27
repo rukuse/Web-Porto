@@ -134,7 +134,7 @@ export default function Home() {
           {/* Small Grid Items */}
           {[
             {
-              image: "/asset/images/Renita1.jpg",
+              image: "/asset/images/renita1.jpg",
               title: "RENITA RENITA",
               subtitle: "2007"
             },
