@@ -80,12 +80,11 @@ body {
 
 .timeline-line {
   position: absolute;
-  left: 50%;
+  left: 40px;
   top: 0;
   bottom: 0;
   width: 1px;
   background: linear-gradient(to bottom, transparent, #444748 10%, #444748 90%, transparent);
-  transform: translateX(-50%);
 }
 
 @media (max-width: 768px) {
@@ -102,7 +101,7 @@ body {
 
 .timeline-dot {
   position: absolute;
-  left: 50%;
+  left: 40px;
   top: 40px;
   width: 12px;
   height: 12px;

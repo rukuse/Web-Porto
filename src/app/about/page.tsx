@@ -102,12 +102,12 @@ export default function About() {
                 viewport={{ once: true }}
                 transition={{ duration: 0.6, delay: i * 0.1 }}
               >
-                <div className="opacity-30 group-hover:opacity-100 transition-opacity duration-500 flex-shrink-0">
-                  <span className="material-symbols-outlined text-4xl md:text-5xl font-light">{award.icon}</span>
+                <div className="text-[#E9C349] opacity-80 group-hover:opacity-100 transition-opacity duration-500 flex-shrink-0">
+                  <span className="material-symbols-outlined text-4xl md:text-5xl font-extralight drop-shadow-[0_2px_8px_rgba(233,195,73,0.3)]">{award.icon}</span>
                 </div>
-                <div className="flex-1 border-b border-outline-variant/10 pb-6 group-last:border-none">
-                  <h4 className="font-headline text-lg md:text-xl font-bold tracking-widest mb-1">{award.title}</h4>
-                  <p className="font-label text-xs text-outline-variant tracking-widest uppercase">{award.subtitle}</p>
+                <div className="flex-1 flex flex-col md:flex-row md:items-baseline justify-between border-b border-outline-variant/10 pb-6 group-last:border-none gap-4">
+                  <h4 className="font-headline text-lg md:text-xl font-bold tracking-widest uppercase text-[#E9C349] drop-shadow-[0_2px_10px_rgba(233,195,73,0.15)]">{award.title}</h4>
+                  <p className="font-label text-[10px] md:text-xs text-outline tracking-widest uppercase group-hover:text-on-surface transition-colors duration-500">{award.subtitle}</p>
                 </div>
               </motion.div>
             ))}

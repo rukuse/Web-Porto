@@ -154,8 +154,6 @@ const Navbar = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.8 }}
             >
-              <a className="font-label text-[10px] tracking-[0.2em] text-[#8e9192]" href="#">INSTAGRAM</a>
-              <a className="font-label text-[10px] tracking-[0.2em] text-[#8e9192]" href="#">VIMEO</a>
             </motion.div>
           </motion.div>
         )}

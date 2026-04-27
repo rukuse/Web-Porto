@@ -139,14 +139,14 @@ export default function Home() {
               subtitle: "2007"
             },
             {
-              image: "/asset/images/serembi.webp",
+              image: "/asset/images/serambi.webp",
               title: "SERAMBI",
               subtitle: "CANNES 2006"
             },
             {
-              image: "/asset/images/TheMangoes.jpg",
-              title: "THE MANGOES",
-              subtitle: "2012"
+              image: "/asset/images/UnderTheMoonlight.webp",
+              title: "UNDER THE MOONLIGHT",
+              subtitle: "2023"
             }
           ].map((item, i) => (
             <motion.div
