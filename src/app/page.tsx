@@ -108,7 +108,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
           >
             <TiltedCard
-              image="/asset/images/UnderMoonLightV2.jpg"
+              image="/asset/images/UnderTheMoonlight.png"
               title="UNDER THE MOONLIGHT"
               subtitle="DOKUMENTER / 2023"
               description="Potret intim Nur dan komunitas di satu-satunya pesantren transpuan di dunia."
@@ -144,7 +144,7 @@ export default function Home() {
               subtitle: "CANNES 2006"
             },
             {
-              image: "/asset/images/UnderTheMoonlight.webp",
+              image: "/asset/images/UnderTheMoonlight.png",
               title: "UNDER THE MOONLIGHT",
               subtitle: "2023"
             }
@@ -203,9 +203,9 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <img
-              className="w-full aspect-[3/4] object-contain filter brightness-75 bg-surface-container-low"
-              alt="Filmmaker silhouette"
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuBceHl7oxS9BJK-gftyRdyZDN_K8huN_Mp3NaAZnzZlfoJ1AERBMPeG4gNH6QLtn885xHrUvVEeb4yhM69cgeupSvjri3aULgJvRaIV4Uj8he2h9aeEb2-RQubevMwm-DftlGZ3mnlZwjE3PAmgIXGRAxMtsvIsDvkgj6jdUmEHAoGSyRMpLjznowiSRuHu6GXNkEiaqce0QN2Qc8ChSVvXjBXZR9SWFw9KDS0tAzItvSkc5zDX4LWY3mm0dPR0gAxNXxR7N0CErgbs"
+              className="w-full aspect-[3/4] object-cover filter brightness-75 bg-surface-container-low"
+              alt="Under The Moonlight poster"
+              src="/asset/images/UnderTheMoonlight.png"
             />
             <div className="absolute -bottom-8 -left-8 bg-surface p-8 shadow-2xl border border-outline-variant/10">
               <span className="font-headline text-4xl text-secondary block">12+</span>

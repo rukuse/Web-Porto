@@ -128,7 +128,7 @@ const TiltedCard: React.FC<TiltedCardProps> = ({
           animate={{
             "--glow-x": mouseX.get() * 100 + 50 + "%",
             "--glow-y": mouseY.get() * 100 + 50 + "%",
-          } as any}
+          } as Record<string, string>}
         />
         {/* Refined Glow Overlay */}
         <motion.div 

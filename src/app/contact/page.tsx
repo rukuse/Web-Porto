@@ -67,7 +67,7 @@ export default function Contact() {
             <h3 className="font-label text-[10px] tracking-[0.4em] text-secondary mb-8 uppercase font-bold">INFORMASI KONTAK</h3>
             <div className="space-y-6">
               <p className="font-headline text-2xl text-primary">{EMAIL_ADDRESS}</p>
-              <p className="font-body text-on-surface-variant text-sm">+62 812 3456 7890</p>
+              <p className="font-body text-on-surface-variant text-sm">+62 813-3530-9652</p>
             </div>
           </div>
 
