@@ -34,7 +34,7 @@ export const FILMS = [
     year: "2025",
     type: "Documentary Feature",
     desc: "Eksplorasi mendalam tentang kuliner tradisional Cabuk Rambak dan warisan budaya yang tersembunyi di sudut kota Solo.",
-    image: "/asset/images/2025 Cabuk Untitled Project.png",
+    image: "/asset/images/2025_Cabuk_Untitled_Project.png",
     featured: false
   },
   {
@@ -42,7 +42,7 @@ export const FILMS = [
     year: "2025",
     type: "Documentary Feature",
     desc: "Menelusuri sejarah dan dinamika penari Cokek di Tangerang, menyoroti persimpangan antara tradisi, gender, dan modernitas.",
-    image: "/asset/images/2025 Cokek Untitled Project.png",
+    image: "/asset/images/2025_Cokek_Untitled_Project.png",
     featured: false
   },
   {
@@ -50,7 +50,7 @@ export const FILMS = [
     year: "2025",
     type: "Documentary Short",
     desc: "Sebuah esai visual tentang Kobro Siswo, kesenian tari religius-tradisional Jawa yang mengekspresikan perlawanan dan spiritualitas.",
-    image: "/asset/images/2025 KOBRO SISWO.png",
+    image: "/asset/images/2025_KOBRO_SISWO.png",
     featured: false
   },
   {
@@ -82,7 +82,7 @@ export const FILMS = [
     year: "2002",
     type: "Documentary Short",
     desc: "Sebuah dokumenter puitis yang merekam ketekunan dan proses pembuatan seni kerajinan tanah liat tradisional di desa Jawa.",
-    image: "/asset/images/2002 Gerabah .png",
+    image: "/asset/images/2002_Gerabah.png",
     featured: false
   },
   {
@@ -90,7 +90,7 @@ export const FILMS = [
     year: "2000",
     type: "Documentary Feature",
     desc: "Kisah tentang penyair Didong legendaris Gayo, merekam memori kolektif sejarah dan perlawanan budaya yang tak terkatakan.",
-    image: "/asset/images/2000 THE POET .png",
+    image: "/asset/images/2000_THE_POET.png",
     featured: false
   },
   {
@@ -98,7 +98,7 @@ export const FILMS = [
     year: "1997",
     type: "Documentary Feature",
     desc: "Potret realis kehidupan anak-anak jalanan di Yogyakarta yang bertahan hidup di tengah kerasnya realitas sosial.",
-    image: "/asset/images/1997 DAUN DI ATAS BANTAL .png",
+    image: "/asset/images/1997_DAUN_DI_ATAS_BANTAL.png",
     featured: false
   },
   {
@@ -106,7 +106,7 @@ export const FILMS = [
     year: "1993",
     type: "Documentary Short",
     desc: "Eksplorasi sinematik awal tentang seni pertunjukan dan ritme tari tradisional Jawa di bawah sinar bulan.",
-    image: "/asset/images/1993 and the moon dances.png",
+    image: "/asset/images/1993_and_the_moon_dances.png",
     featured: false
   }
 ];
